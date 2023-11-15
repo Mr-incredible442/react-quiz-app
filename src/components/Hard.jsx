@@ -102,7 +102,7 @@ function HArd() {
   if (quizIsComplete) {
     return (
       <Container className='mt-4'>
-        <Link to={'/'} className='nav-link'>
+        <Link to={'/'} className='nav-info'>
           <Button
             variant='outline-dark'
             size='sm'

@@ -115,7 +115,7 @@ function Medium() {
       <Container className='mt-4'>
         <Link to={'/'} className='nav-link'>
           <Button
-            variant='outline-dark'
+            variant='outline-info'
             size='sm'
             className='d-flex align-items-center'>
             <BsChevronLeft />
